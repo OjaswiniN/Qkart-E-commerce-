@@ -24,9 +24,7 @@
   - Express.js
   - MongoDB
   - JWT (JSON Web Tokens) for authentication
-- **Payment Gateway:**
-  - Stripe
-  - 
+    
 - **Deployment:**
   - Hosted on Netlify
 
@@ -45,4 +43,4 @@ To get a local copy up and running, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/Qkart-ReactJs.git
-   cd qkart-website
+   cd Qkart-ReactJs
