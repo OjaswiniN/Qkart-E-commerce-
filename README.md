@@ -10,7 +10,7 @@
 - **Order Management:** Users can place orders, view order history, and track the status of their orders.
 - **Responsive Design:** Fully responsive layout for mobile, tablet, and desktop views.
 - **Admin Panel:** Manage products, categories, and user accounts with an intuitive admin interface.
-- **Payment Integration:** Integrated with Stripe for secure payments.
+- **Payment Integration:** Integrated payment feature.
 
 ## Tech Stack
 
