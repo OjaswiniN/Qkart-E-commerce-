@@ -17,8 +17,8 @@
 - **Frontend:**
   - React.js
   - Redux
-  - Bootstrap
-  - CSS3
+  - Material UI
+    
 - **Backend:**
   - Node.js
   - Express.js
